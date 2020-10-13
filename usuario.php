@@ -117,8 +117,7 @@ include('verificar.php');
             <p><a href="logout.php">> Sair</a></p>
         </div>
         <div id="painel2">
-            <h4>Informações da Conta</h4>
-            <!-- <p><?php$_SESSION['userNome']?></p> -->
+            <h4>Informações da Conta</h4>            
             <p>membro desde</p>
             <p>ultimo acesso</p>
             <p>email: </p>

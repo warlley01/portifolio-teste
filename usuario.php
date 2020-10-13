@@ -113,7 +113,7 @@ include('verificar.php');
             <h4>Meu Painel</h4>
             <p><a href="usuario.php">> Meus Anúncios</a></p>
             <p>> Minhas Ordens</p>
-            <p><a href="painel.html">> Editar Perfil</a></p>
+            <p><a href="painel.php">> Editar Perfil</a></p>
             <p><a href="logout.php">> Sair</a></p>
         </div>
         <div id="painel2">

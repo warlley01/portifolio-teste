@@ -98,11 +98,10 @@
             <p><label>Email:</label></p>
             <input type="text" name="email" id="email" placeholder="digite o email ex: joao@gmail.com">
             <p><label>Senha:</label></p>
-            <input type="password" name="senha" id="pass" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required>
-        </form>
-        
+            <input type="password" name="senha" id="pass" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required>        
             <input id="criar" type="submit" value="Criar Conta">   
             </div>
+         </form>
         <!--mensagem-->
         <div id="message">
             <h3>Precisa Conter:</h3>

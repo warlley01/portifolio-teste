@@ -106,11 +106,11 @@
         <!--mensagem-->
         <div id="message">
             <h3>Precisa Conter:</h3>
-            <p1 id="min" class="invalid">Letras minúsculas</p>
-            <p1 id="max" class="invalid">Letras maiúsculas</p>
-            <p1 id="num" class="invalid">Numero </p>
-            <p1 id="dig" class="invalid">No mínimo 8 digitos</p>
-            <p1 id="for"></p>
+            <p1 id="min" class="invalid">Letras minúsculas</p1>
+            <p1 id="max" class="invalid">Letras maiúsculas</p1>
+            <p1 id="num" class="invalid">Numero </p1>
+            <p1 id="dig" class="invalid">No mínimo 8 digitos</p1>
+            <p1 id="for"></p1>
         </div>
 
         <!--script-->
